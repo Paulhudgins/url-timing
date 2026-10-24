@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Secrets and local config
+.env
+config.yaml
+
+# Local data
+*.db
+*.sqlite
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
